@@ -1,0 +1,22 @@
+{
+  "name": "greenbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swabisan/greenbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swabisan/greenbox/issues"
+  },
+  "homepage": "https://github.com/swabisan/greenbox#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
